@@ -15,7 +15,7 @@ A simple shell implemented in C, TShell stands for (Tanaka's Shell). It provides
 - Redirect output to a file using > operator.
 - Redirect input from a file using < operator.
 
-##### Extern Commands:
+#### Extern Commands:
 This shell also allows for the use of external commands, such as grep and wc
 
 ## How To Run
